@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_cupid.mk
+    $(LOCAL_DIR)/kenvyra_cupid.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_cupid-user \
-    lineage_cupid-userdebug \
-    lineage_cupid-eng
+    kenvyra_cupid-user \
+    kenvyra_cupid-userdebug \
+    kenvyra_cupid-eng
